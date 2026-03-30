@@ -1,0 +1,31 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.framework
+ios/Flutter/engine/
+ios/Flutter/flutter_export_environment.sh
+
+# Android
+android/.gradle/
+android/app/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Misc
+*.lock
+!pubspec.lock
+.DS_Store
+*.swp
