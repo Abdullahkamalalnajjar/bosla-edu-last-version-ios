@@ -6,8 +6,6 @@ build/
 .flutter-plugins-dependencies
 
 # iOS
-ios/Pods/
-ios/.symlinks/
 ios/Flutter/Flutter.framework
 ios/Flutter/Flutter.podspec
 ios/Flutter/Generated.xcconfig
@@ -25,7 +23,5 @@ android/app/build/
 .vscode/
 
 # Misc
-*.lock
-!pubspec.lock
 .DS_Store
 *.swp
